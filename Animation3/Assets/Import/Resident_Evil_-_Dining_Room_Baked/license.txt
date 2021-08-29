@@ -1,0 +1,11 @@
+Model Information:
+* title:	Resident Evil - Dining Room Baked
+* source:	https://sketchfab.com/3d-models/resident-evil-dining-room-baked-81c5902781204446bd5667bc8c78229f
+* author:	Vince_Crusty (https://sketchfab.com/vince.trust)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Resident Evil - Dining Room Baked" (https://sketchfab.com/3d-models/resident-evil-dining-room-baked-81c5902781204446bd5667bc8c78229f) by Vince_Crusty (https://sketchfab.com/vince.trust) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
